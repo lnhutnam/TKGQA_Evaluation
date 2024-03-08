@@ -1,0 +1,9 @@
+[submodule "CronKGQA"]
+	path = CronKGQA
+	url = https://github.com/lnhutnam/CronKGQA
+[submodule "TempoQR"]
+	path = TempoQR
+	url = https://github.com/lnhutnam/TempoQR
+[submodule "CTRN"]
+	path = CTRN
+	url = https://github.com/lnhutnam/CTRN
